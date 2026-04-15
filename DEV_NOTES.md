@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Added basic usage examples to README
 - Added inline documentation for core functions
+
+## 2026-04-15
+- Reviewed security headers configuration
+- Refactored module structure for clarity
